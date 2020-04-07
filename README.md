@@ -12,4 +12,6 @@ Ayudantía 4 (Axiomas de Orden y Valor Absoluto) - [Enunciado](https://github.co
 
 Ayudantía 5 (Media aritmética - Media geométrica) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado05.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n05.pdf)
 
+Ayudantía 6 (Inecuaciones) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado06.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n06.pdf) 
+
 [Libros](https://github.com/brd12/tempbooks)
