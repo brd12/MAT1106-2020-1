@@ -18,4 +18,6 @@ Ayudantía 7 (Desigualdades con Inducción y Bernoulli) - [Enunciado](https://gi
 
 Ayudantía 8 (Monotonía de Sucesiones) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado08.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n08.pdf)
 
+Ayudantía 9 (Subsucesiones - Monotonía) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado09.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n09.pdf)
+
 [Libros](https://github.com/brd12/tempbooks)
