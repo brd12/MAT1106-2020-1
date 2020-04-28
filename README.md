@@ -2,7 +2,7 @@
 
 ## Ayudantías
 
-###Last Update: 28/04 (Enunciado 11 y 10, Sol 10)
+### Last Update: 28/04 (Enunciado 11 y 10, Sol 10)
 
 Ayudantía 01 (Axiomas de Cuerpo) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado01.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n01.pdf)
 
@@ -24,6 +24,6 @@ Ayudantía 09 (Subsucesiones - Monotonía) - [Enunciado](https://github.com/brd1
 
 Ayudantía 10 (Repaso I4) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado10.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n10.pdf)
 
-Ayudantía 11 (Cotas de Sucesiones - ACD) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado11.pdf) - [Solución (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n09.pdf)
+Ayudantía 11 (Cotas de Sucesiones - ACD) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado11.pdf) - [Solución (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
 
 [Libros](https://github.com/brd12/tempbooks)
