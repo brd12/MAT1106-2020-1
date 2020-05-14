@@ -26,14 +26,14 @@ Ayudantía 10 (Repaso I4) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/
 
 Ayudantía 11 (Cotas de Sucesiones - ACD) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado11.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
 
-Ayudantía 12 (Cotas de Sucesiones - ACD) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado12.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
+Ayudantía 12 (Cotas de Sucesiones - Convergencia a Infinito) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado12.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n12.pdf)
 
-Ayudantía 13 (Cotas de Sucesiones - ACD) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado13.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
+Ayudantía 13 (Convergencia a Infinito) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado13.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n13.pdf)
 
-Ayudantía 14 (Repaso I5) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado14.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
+Ayudantía 14 (Repaso I5) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado14.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n14.pdf)
 
-Ayudantía 15 (Convergencia a 0) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado15.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
+Ayudantía 15 (Convergencia a 0) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado15.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n15.pdf)
 
-Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado16.pdf) - [Solución (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n11.pdf)
+Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado17.pdf) - [Solución (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n17.pdf)
 
 [Libros](https://github.com/brd12/tempbooks)
