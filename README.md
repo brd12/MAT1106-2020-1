@@ -1,8 +1,8 @@
 # Introducción al Cálculo (MAT1106) - 2020-1
 
-## Ayudantías
-
 ### Last Update: 25/05 (Enunciado 16, Sol 16, Bonuses)
+
+## Ayudantías
 
 Ayudantía 01 (Axiomas de Cuerpo) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado01.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n01.pdf)
 
@@ -36,7 +36,7 @@ Ayudantía 15 (Convergencia a 0) - [Enunciado](https://github.com/brd12/MAT1106-
 
 Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado16.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n16.pdf)
 
-##Otros
+## Otros
 
 [Propiedades de convergencia a infinito](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/Propiedades.pdf)
 
