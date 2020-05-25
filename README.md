@@ -2,7 +2,7 @@
 
 ## Ayudantías
 
-### Last Update: 28/04 (Enunciado 11 y 10, Sol 10)
+### Last Update: 25/05 (Enunciado 16, Sol 16, Bonuses)
 
 Ayudantía 01 (Axiomas de Cuerpo) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado01.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n01.pdf)
 
@@ -34,6 +34,10 @@ Ayudantía 14 (Repaso I5) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/
 
 Ayudantía 15 (Convergencia a 0) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado15.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n15.pdf)
 
-Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado17.pdf) - [Solución (aún no disponible)](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n17.pdf)
+Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado16.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n16.pdf)
 
-[Libros](https://github.com/brd12/tempbooks)
+##Otros
+
+[Propiedades de convergencia a infinito](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/Propiedades.pdf)
+
+[Límites](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/L%C3%ADmites.pdf)
