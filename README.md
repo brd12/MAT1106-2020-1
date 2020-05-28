@@ -1,6 +1,6 @@
 # Introducción al Cálculo (MAT1106) - 2020-1
 
-### Last Update: 25/05 (Enunciado 16, Sol 16, Bonuses)
+### Last Update: 28/05 (Hints bonus 2)
 
 ## Ayudantías
 
@@ -40,4 +40,4 @@ Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado](https://github.com/brd1
 
 [Propiedades de convergencia a infinito](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/Propiedades.pdf)
 
-[Límites](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/L%C3%ADmites.pdf)
+[Límites](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/L%C3%ADmites.pdf) (+ [Hints](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/L%C3%ADmites%20%2B%20Hints.pdf))
