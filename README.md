@@ -36,6 +36,10 @@ Ayudantía 15 (Convergencia a 0) - [Enunciado](https://github.com/brd12/MAT1106-
 
 Ayudantía 16 (Convergencia de Sucesiones) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado16.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n16.pdf)
 
+Ayudantía 17 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado17.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n17.pdf)
+
+Ayudantía 18 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado18.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n18.pdf)
+
 ## Otros
 
 [Propiedades de convergencia a infinito](https://github.com/brd12/MAT1106-2020-1/blob/Bonus/Propiedades.pdf)
