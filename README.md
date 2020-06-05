@@ -1,6 +1,6 @@
 # Introducción al Cálculo (MAT1106) - 2020-1
 
-### Last Update: 28/05 (Hints bonus 2)
+### Last Update: 04/06 (Enunciado/Solución ayudantía 17/18)
 
 ## Ayudantías
 
