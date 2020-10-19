@@ -1,6 +1,6 @@
 # Introducción al Cálculo (MAT1106) - 2020-1
 
-### Last Update: 04/06 (Enunciado/Solución ayudantía 17/18)
+En caso de encontrar errores, avisar a faguzman4@uc.cl.
 
 ## Ayudantías
 
@@ -40,21 +40,21 @@ Ayudantía 17 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado
 
 Ayudantía 18 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado18.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n18.pdf)
 
-Ayudantía 19 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado19.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n19.pdf)
+Ayudantía 19 (Teorema del Sandwich) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado19.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n19.pdf)
 
-Ayudantía 20 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado20.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n20.pdf)
+Ayudantía 20 (Convergencia - Expansión decimal) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado20.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n20.pdf)
 
-Ayudantía 21 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado21.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n21.pdf)
+Ayudantía 21 (Expansión decimal) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado21.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n21.pdf)
 
-Ayudantía 22 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado22.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n22.pdf)
+Ayudantía 22 (Densidad - Axioma del supremo) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado22.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n22.pdf)
 
-Ayudantía 23 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado23.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n23.pdf)
+Ayudantía 23 (Supremo - Sucesiones de Cauchy) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado23.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n23.pdf)
 
-Ayudantía 24 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado24.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n24.pdf)
+Ayudantía 24 (Expansión decimal - Densidad) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado24.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n24.pdf)
 
-Ayudantía 25 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado25.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n25.pdf)
+Ayudantía 25 (Supremo - Potencias irracionales) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado25.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n25.pdf)
 
-Ayudantía 26 (Álgebra de Límites - Monótono y Acotado converge) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado26.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n26.pdf)
+Ayudantía 26 (Repaso Examen) - [Enunciado](https://github.com/brd12/MAT1106-2020-1/blob/Enunciados/Enunciado26.pdf) - [Solución](https://github.com/brd12/MAT1106-2020-1/blob/Soluciones/Soluci%C3%B3n26.pdf)
 
 ## Otros
 
