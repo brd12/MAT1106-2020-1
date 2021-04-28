@@ -1,6 +1,6 @@
 # Introducción al Cálculo (MAT1106) - 2020-1
 
-En caso de encontrar errores, avisar a faguzman4@uc.cl.
+En caso de encontrar errores, avisar a faguzman4@uc.cl. (Nota mental: Arreglar enunciado 12)
 
 ## Ayudantías
 
